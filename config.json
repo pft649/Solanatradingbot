@@ -1,0 +1,7 @@
+{
+  "wallet_address": "TU_WALLET",
+  "rpc_url": "https://api.mainnet-beta.solana.com",
+  "fees": 0.01,
+  "slippage": 1.0,
+  "auto_buy_amount": 0.5,
+}
